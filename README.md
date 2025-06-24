@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/512px-Jupyter_logo.svg.png" width="70"/>
-
 # ⚽ TP_Ciencia_Datos  
 ### Trabajo práctico final de Ciencia de Datos
 
